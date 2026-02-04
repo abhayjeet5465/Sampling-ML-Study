@@ -1,5 +1,5 @@
 # Sampling-ML-Study
-By:Abhayjeet(102303761)
+By: Abhayjeet(102303761)
 ## Abstract
 Imbalanced datasets pose a significant challenge in machine learning as they often bias models toward the majority class. This study investigates the impact of different sampling and validation techniques on the performance of multiple machine learning models using a highly imbalanced credit card dataset. Five techniques—Simple Random Sampling, Stratified Sampling, Cluster Sampling, Bootstrap Sampling, and Cross-Validation—are applied and evaluated across five classifiers. The results highlight how sampling strategy selection directly influences model accuracy.
 
