@@ -27,7 +27,7 @@ Simple Random Sampling selects data points randomly from the population, ensurin
 
 ### B. Stratified Sampling
 Stratified Sampling divides the dataset into strata based on class labels and samples proportionally from each class. This ensures that class imbalance is maintained in both training and testing datasets.
-
+                                        
 ### C. Cluster Sampling
 In Cluster Sampling, the dataset is divided into multiple clusters based on index grouping. A subset of clusters is randomly selected, and all data points within those clusters are used for training. This method may lose global data patterns if clusters are not representative.
 
